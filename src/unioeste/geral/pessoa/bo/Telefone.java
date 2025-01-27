@@ -1,4 +1,7 @@
-package unioeste.geral.contato.bo;
+package unioeste.geral.pessoa.bo;
+
+import unioeste.geral.pessoa.bo.DDD;
+import unioeste.geral.pessoa.bo.DDI;
 
 import java.io.Serializable;
 

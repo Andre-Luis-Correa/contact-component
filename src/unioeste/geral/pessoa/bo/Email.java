@@ -1,4 +1,4 @@
-package unioeste.geral.contato.bo;
+package unioeste.geral.pessoa.bo;
 
 import java.io.Serializable;
 
