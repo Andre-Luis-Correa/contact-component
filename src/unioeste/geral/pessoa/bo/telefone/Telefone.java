@@ -1,7 +1,7 @@
-package unioeste.geral.pessoa.bo;
+package unioeste.geral.pessoa.bo.telefone;
 
-import unioeste.geral.pessoa.bo.DDD;
-import unioeste.geral.pessoa.bo.DDI;
+import unioeste.geral.pessoa.bo.ddd.DDD;
+import unioeste.geral.pessoa.bo.ddi.DDI;
 
 import java.io.Serializable;
 

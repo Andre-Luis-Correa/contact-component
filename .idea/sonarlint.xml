@@ -3,7 +3,7 @@
   <component name="SonarLintProjectSettings">
     <option name="moduleMapping">
       <map>
-        <entry key="MyPersonBO" value="MyContactBO" />
+        <entry key="MyPessoaBO" value="MyContactBO" />
       </map>
     </option>
   </component>

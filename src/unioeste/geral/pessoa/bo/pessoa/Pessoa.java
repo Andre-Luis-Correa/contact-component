@@ -1,6 +1,8 @@
-package unioeste.geral.pessoa.bo;
+package unioeste.geral.pessoa.bo.pessoa;
 
-import unioeste.geral.endereco.bo.EnderecoEspecifico;
+import unioeste.geral.endereco.bo.enderecoespecifico.EnderecoEspecifico;
+import unioeste.geral.pessoa.bo.telefone.Telefone;
+import unioeste.geral.pessoa.bo.email.Email;
 
 import java.io.Serializable;
 import java.util.List;

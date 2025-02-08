@@ -1,4 +1,4 @@
-package unioeste.geral.pessoa.bo;
+package unioeste.geral.pessoa.bo.ddi;
 
 import java.io.Serializable;
 
